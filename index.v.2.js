@@ -53,7 +53,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 });
 	 node index.js
 	
-	NzY3OTY0ODQzNjg4NTkxNDAz.X45k_g.uFfkwul0Evu1BzIu47lZWmOfqWI
+	
 
  
     
