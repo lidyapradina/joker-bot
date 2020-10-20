@@ -3,4 +3,13 @@ if(command === "play") {
  
  // game will expired in a minute if cilent didn't say "start"
  
+ const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.once('ready', () => {
+	console.log('Ready!');
+});
+
+client.login('your-token-goes-here');
+ 
     
